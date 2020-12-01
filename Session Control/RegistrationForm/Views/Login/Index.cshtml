@@ -1,0 +1,8 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+@Html.Raw(TempData["loginstatus"] )
+<h3  style="color:#ffffff;text-align:center;" > Registration SuccessFully @Session["Username"]</h3></hr>
+<h4 >@Html.ActionLink("Logout","Logout","Login")</h4>
+
