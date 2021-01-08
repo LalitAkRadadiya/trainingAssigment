@@ -1,0 +1,229 @@
+{
+	"info": {
+		"_postman_id": "7c23e81e-734e-4f40-8c4b-90c54bd6ffc5",
+		"name": "ProductManagement",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "https://localhost:44395/api/Products",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"{\r",
+							"    \"ProductID\": 2,\r",
+							"    \"Name\": \"Rad       \",\r",
+							"    \"Category\": \"Bik       \",\r",
+							"    \"Price\": 96,\r",
+							"    \"Quantity\": 5,\r",
+							"    \"Short_Description\": \"Long      \",\r",
+							"    \"Long_Description\": \"Short     \",\r",
+							"    \"Small_Image\": \"Large\",\r",
+							"    \"Large_Image\": \"Small\"\r",
+							"}"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"followOriginalHttpMethod": false
+			},
+			"request": {
+				"auth": {
+					"type": "digest",
+					"digest": [
+						{
+							"key": "algorithm",
+							"value": "MD5",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \r\n    \"Name\": \"white       \",\r\n    \"Category\": \"Bik       \",\r\n    \"Price\": 96,\r\n    \"Quantity\": 5,\r\n    \"Short_Description\": \"Long      \",\r\n    \"Long_Description\": \"Short     \",\r\n    \"Small_Image\": \"Large\",\r\n    \"Large_Image\": \"Small\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Products/1",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Products",
+						"1"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44395/api/Products",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"{\r",
+							"    \"ProductID\": 2,\r",
+							"    \"Name\": \"Rad       \",\r",
+							"    \"Category\": \"Bik       \",\r",
+							"    \"Price\": 96,\r",
+							"    \"Quantity\": 5,\r",
+							"    \"Short_Description\": \"Long      \",\r",
+							"    \"Long_Description\": \"Short     \",\r",
+							"    \"Small_Image\": \"Large\",\r",
+							"    \"Large_Image\": \"Small\"\r",
+							"}"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"followOriginalHttpMethod": false
+			},
+			"request": {
+				"auth": {
+					"type": "digest",
+					"digest": [
+						{
+							"key": "algorithm",
+							"value": "MD5",
+							"type": "string"
+						}
+					]
+				},
+				"method": "DELETE",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \r\n    \"Name\": \"white       \",\r\n    \"Category\": \"Bik       \",\r\n    \"Price\": 96,\r\n    \"Quantity\": 5,\r\n    \"Short_Description\": \"Long      \",\r\n    \"Long_Description\": \"Short     \",\r\n    \"Small_Image\": \"Large\",\r\n    \"Large_Image\": \"Small\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Products/2",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Products",
+						"2"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "https://localhost:44395/api/Products",
+			"event": [
+				{
+					"listen": "prerequest",
+					"script": {
+						"exec": [
+							""
+						],
+						"type": "text/javascript"
+					}
+				},
+				{
+					"listen": "test",
+					"script": {
+						"exec": [
+							"{\r",
+							"    \"ProductID\": 2,\r",
+							"    \"Name\": \"Rad       \",\r",
+							"    \"Category\": \"Bik       \",\r",
+							"    \"Price\": 96,\r",
+							"    \"Quantity\": 5,\r",
+							"    \"Short_Description\": \"Long      \",\r",
+							"    \"Long_Description\": \"Short     \",\r",
+							"    \"Small_Image\": \"Large\",\r",
+							"    \"Large_Image\": \"Small\"\r",
+							"}"
+						],
+						"type": "text/javascript"
+					}
+				}
+			],
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true,
+				"followOriginalHttpMethod": false
+			},
+			"request": {
+				"auth": {
+					"type": "digest",
+					"digest": [
+						{
+							"key": "algorithm",
+							"value": "MD5",
+							"type": "string"
+						}
+					]
+				},
+				"method": "GET",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n   \r\n    \"Name\": \"white       \",\r\n    \"Category\": \"Bik       \",\r\n    \"Price\": 96,\r\n    \"Quantity\": 5,\r\n    \"Short_Description\": \"Long      \",\r\n    \"Long_Description\": \"Short     \",\r\n    \"Small_Image\": \"Large\",\r\n    \"Large_Image\": \"Small\"\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44395/api/Products",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44395",
+					"path": [
+						"api",
+						"Products"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
