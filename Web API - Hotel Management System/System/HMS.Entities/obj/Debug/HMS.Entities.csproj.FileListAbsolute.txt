@@ -1,0 +1,44 @@
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\HMS.Entities.dll
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\HMS.Entities.pdb
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\AutoMapper.dll
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\HMS.Data.dll
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\EntityFramework.dll
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\HMS.Data.pdb
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\HMS.Data.dll.config
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\AutoMapper.pdb
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\AutoMapper.xml
+E:\Gateway\HotelManagementSystem\HMS.Entities\bin\Debug\EntityFramework.xml
+E:\Gateway\HotelManagementSystem\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+E:\Gateway\HotelManagementSystem\HMS.Entities\obj\Debug\HMS.Entities.csproj.CopyComplete
+E:\Gateway\HotelManagementSystem\HMS.Entities\obj\Debug\HMS.Entities.dll
+E:\Gateway\HotelManagementSystem\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\obj\Debug\HMS.Entities.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Entities\obj\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\obj\Debug\HMS.Entities.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\obj\Debug\HMS.Entities.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\obj\Debug\HMS.Entities.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\obj\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Entities\obj\Debug\HMS.Entities.pdb

@@ -1,0 +1,44 @@
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\HMS.Data.dll.config
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\HMS.Data.dll
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\HMS.Data.pdb
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\AutoMapper.dll
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\EntityFramework.dll
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\AutoMapper.pdb
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\AutoMapper.xml
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\EntityFramework.xml
+E:\Gateway\HotelManagementSystem\HMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+E:\Gateway\HotelManagementSystem\HMS.Data\obj\Debug\HMS.Data.csprojAssemblyReference.cache
+E:\Gateway\HotelManagementSystem\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
+E:\Gateway\HotelManagementSystem\HMS.Data\obj\Debug\HMS.Data.dll
+E:\Gateway\HotelManagementSystem\HMS.Data\obj\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\obj\Debug\HMS.Data.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\obj\Debug\HMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\obj\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Data\obj\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.pdb

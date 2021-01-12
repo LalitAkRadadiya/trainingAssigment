@@ -1,0 +1,100 @@
+E:\Gateway\HotelManagementSystem\HMS.Busniess\obj\Debug\HMS.Business.csprojAssemblyReference.cache
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Busniess.dll.config
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Busniess.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Busniess.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\AutoMapper.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Data.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Entities.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Newtonsoft.Json.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Web.Http.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\EntityFramework.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Data.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Data.dll.config
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\HMS.Entities.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\AutoMapper.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\AutoMapper.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Newtonsoft.Json.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Web.Http.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\EntityFramework.xml
+E:\Gateway\HotelManagementSystem\HMS.Busniess\obj\Debug\HMS.Business.csproj.CopyComplete
+E:\Gateway\HotelManagementSystem\HMS.Busniess\obj\Debug\HMS.Busniess.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\obj\Debug\HMS.Busniess.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Unity.Abstractions.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Unity.Container.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Unity.WebApi.dll
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Unity.Abstractions.pdb
+E:\Gateway\HotelManagementSystem\HMS.Busniess\bin\Debug\Unity.Container.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Busniess.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Busniess.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Busniess.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Web.Http.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Unity.Abstractions.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Unity.Container.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Unity.WebApi.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Web.Http.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\Unity.Container.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\obj\Debug\HMS.Business.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\obj\Debug\HMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\obj\Debug\HMS.Business.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\obj\Debug\HMS.Busniess.dll
+C:\Users\Lalit Ak Radadiya\Desktop\Test\HMS.Busniess\obj\Debug\HMS.Busniess.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Busniess.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Busniess.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Busniess.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\AutoMapper.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Data.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Entities.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Web.Http.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Unity.Abstractions.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Unity.Container.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Unity.WebApi.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\EntityFramework.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Data.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Data.dll.config
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\HMS.Entities.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\AutoMapper.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\AutoMapper.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Web.Http.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\System.Web.Http.WebHost.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Unity.Abstractions.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\Unity.Container.pdb
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\bin\Debug\EntityFramework.xml
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\obj\Debug\HMS.Business.csprojAssemblyReference.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\obj\Debug\HMS.Business.csproj.CoreCompileInputs.cache
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\obj\Debug\HMS.Business.csproj.CopyComplete
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\obj\Debug\HMS.Busniess.dll
+C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Busniess\obj\Debug\HMS.Busniess.pdb
