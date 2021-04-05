@@ -42,3 +42,20 @@ C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management 
 C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
 C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.dll
 C:\Users\Lalit Ak Radadiya\Desktop\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.pdb
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csprojAssemblyReference.cache
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.CoreCompileInputs.cache
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.dll
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.pdb
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.dll.config
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.dll
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\HMS.Data.pdb
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.dll
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.dll
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.pdb
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\AutoMapper.xml
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.xml
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.CopyComplete
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.Migrations.InitialCreate.resources
+D:\trainingAssigment\Web API - Hotel Management System\System\HMS.Data\obj\Debug\HMS.Data.csproj.GenerateResource.cache

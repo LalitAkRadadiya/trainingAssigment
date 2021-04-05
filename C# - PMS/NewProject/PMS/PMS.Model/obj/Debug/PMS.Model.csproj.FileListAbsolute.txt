@@ -1,0 +1,6 @@
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\bin\Debug\PMS.Model.dll
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\bin\Debug\PMS.Model.pdb
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\obj\Debug\PMS.Model.csprojAssemblyReference.cache
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\obj\Debug\PMS.Model.csproj.CoreCompileInputs.cache
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\obj\Debug\PMS.Model.dll
+D:\trainingAssigment\C# - PMS\NewProject\PMS\PMS.Model\obj\Debug\PMS.Model.pdb
