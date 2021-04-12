@@ -8,7 +8,7 @@ using System.Web.Mvc;
 
 namespace MVC.Controllers
 {
-    [Authorize]
+    //[Authorize]
     public class ProductController : Controller
     {
         // GET: Product
@@ -18,8 +18,8 @@ namespace MVC.Controllers
             IEnumerable<mvcProductModel> productList = null;
             HttpClient hc = new HttpClient();
 
-            hc.BaseAddress = new Uri("https://localhost:44395/api/");
-            var consumeapi = hc.GetAsync("Products");
+            hc.BaseAddress = new Uri("https://localhost:44328/api/");
+            var consumeapi = hc.GetAsync("Product");
             consumeapi.Wait();
 
             var readdata = consumeapi.Result;

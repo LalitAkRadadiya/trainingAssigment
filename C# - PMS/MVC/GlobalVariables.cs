@@ -12,7 +12,7 @@ namespace MVC
 
         static GlobalVariables()
         {
-            WebApiClint.BaseAddress = new Uri("https://localhost:44395/api/");
+            WebApiClint.BaseAddress = new Uri("https://localhost:44328//api/");
             WebApiClint.DefaultRequestHeaders.Clear();
             WebApiClint.DefaultRequestHeaders.Accept.Add(new MediaTypeWithQualityHeaderValue("aplication/json"));
         }
